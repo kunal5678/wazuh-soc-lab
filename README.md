@@ -41,3 +41,6 @@ monitoring two Linux endpoints to simulate real SOC analyst workflows.
 
 | OrbStack               | VM management on Apple Silicon |
 
+
+## Dashboard Screenshot
+![Wazuh Dashboard](screenshots/wazuh_dashboard_running.png)
